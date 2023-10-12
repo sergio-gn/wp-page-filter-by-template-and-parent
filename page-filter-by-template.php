@@ -32,7 +32,7 @@ function custom_page_filter() {
 
     $parent_pages = get_pages(array(
         'parent' => 0,
-        'post_type' => 'page',
+        //create a logic for this after - display parents regardless if they are children or not 'post_type' => 'page',
     ));
 
     echo '<select name="parent_filter">';
