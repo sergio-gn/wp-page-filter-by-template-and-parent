@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Page Filter By Template
+ * Plugin Name: Wordpress Page Filter By Template and Parent
  * Description: Adds custom filters to the admin pages section to filter pages by template and parent page.
  * Version: 1.1
  * Author: Serg
